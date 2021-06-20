@@ -1,6 +1,6 @@
 package movie;
 
-public class Reservation {xx
+public class Reservation {
 
     private Customer customer;
     private Screening screening;
